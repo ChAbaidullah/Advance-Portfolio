@@ -795,37 +795,37 @@ ul {
 } */
 
 .slider li:nth-child(1) {
-    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/Synerge.jpg");
+    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/sadiq.png");
     background-size: cover;
     background-position: top left;
 }
 
 .slider li:nth-child(2) {
-    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/ONIT.jpg");
+    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/elux.png");
     background-size: cover;
     background-position: top left;
 }
 
 .slider li:nth-child(3) {
-    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/CodeFrenetics.jpg");
+    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/portfolio.png");
     background-size: cover;
     background-position: top left;
 }
 
 .slider li:nth-child(4) {
-    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/promp-topia.jpg");
+    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/papermaker.png");
     background-size: cover;
     background-position: top left;
 }
 
 .slider li:nth-child(5) {
-    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/Innovazy.jpg");
+    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/schoolvisions.png");
     background-size: cover;
     background-position: top left;
 }
 
 .slider li:nth-child(6) {
-    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/Adstal.jpg");
+    background: linear-gradient(to right, rgb(1 1 1 / 86%) 10%, rgb(1 1 1 / 65%) 51%, rgba(1, 1, 1, 0.2) 100%), url("assets/portfolio\ work/sharif.png");
     background-size: cover;
     background-position: top left;
 }
